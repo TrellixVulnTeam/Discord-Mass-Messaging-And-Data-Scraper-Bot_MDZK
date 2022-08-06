@@ -89,7 +89,7 @@ Getting neccessary info
 
 
 =======================================================================================
-Instalation video: https://drive.google.com/file/d/18M8Ycm8980sCBDbuLdY9KkaJ1YyU8yNe/view?usp=sharing
+
 
 
 
@@ -109,7 +109,6 @@ Running for first time:
 6.You can leave the program in background
 7.After you are done close the project (exit) and repeat step 1) next time you want to run this tool
 =======================================================================================
-Setup & demo video: https://drive.google.com/file/d/11dqDkhbMwc5dXKFg8cYX7Kl8DI_chH5e/view?usp=sharing
 
 
 
