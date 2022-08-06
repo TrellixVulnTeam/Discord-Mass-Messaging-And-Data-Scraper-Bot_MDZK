@@ -1,1 +1,1 @@
-*.html -linguist-detectable
+dist/* linguist-vendored=false
